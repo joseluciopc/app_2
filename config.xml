@@ -17,12 +17,12 @@
       José Lucio Peraza Cárdenas
   </author>
     
-<icon src="icono.png" platform="android" qualifier="ldpi" />
-<icon src="icono.png" platform="android" qualifier="mdpi" />
-<icon src="icono.png" platform="android" qualifier="hdpi" />
-<icon src="icono.png" platform="android" qualifier="xhdpi" />
-<icon src="icono.png" platform="android" qualifier="xxhdpi" />
-<icon src="icono.png" platform="android" qualifier="xxxhdpi" />
-<icon src="icono.png" platform="android" qualifier="fr-xxhdpi" />
+<icon src="images/icono.png" platform="android" qualifier="ldpi" />
+<icon src="images/icono.png" platform="android" qualifier="mdpi" />
+<icon src="images/icono.png" platform="android" qualifier="hdpi" />
+<icon src="images/icono.png" platform="android" qualifier="xhdpi" />
+<icon src="images/icono.png" platform="android" qualifier="xxhdpi" />
+<icon src="images/icono.png" platform="android" qualifier="xxxhdpi" />
+<icon src="images/icono.png" platform="android" qualifier="fr-xxhdpi" />
 
 </widget>
